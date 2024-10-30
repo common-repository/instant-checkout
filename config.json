@@ -1,0 +1,8 @@
+{
+  "apiBaseUrl": "https://getinstant.co",
+  "popupUrl": "https://getinstant.co/popup/",
+  "devMode": false,
+  "additionalFields": {
+    "phone": false
+  }
+}
